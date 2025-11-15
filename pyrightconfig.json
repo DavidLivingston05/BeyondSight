@@ -1,0 +1,12 @@
+{
+    "pythonVersion": "3.10",
+    "pythonPlatform": "Windows",
+    "typeCheckingMode": "off",
+    "include": ["*.py"],
+    "exclude": ["**/__pycache__", "**/.*"],
+    "pythonPath": "E:\\Python",
+    "typeshedPath": "E:\\Python\\lib\\site-packages\\typeshed",
+    "extraPaths": [
+        "E:\\Python\\lib\\site-packages"
+    ]
+}
